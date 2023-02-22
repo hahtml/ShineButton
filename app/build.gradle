@@ -7,12 +7,12 @@ buildscript {
 }
 
 android {
-    compileSdkVersion 28
+    compileSdkVersion 32
 
     defaultConfig {
         applicationId "com.sackcentury.shinebutton"
-        minSdkVersion 14
-        targetSdkVersion 28
+        minSdkVersion 24
+        targetSdkVersion 32
         versionCode 1
         versionName "1.0"
     }
